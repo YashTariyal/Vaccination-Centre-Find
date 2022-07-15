@@ -3,7 +3,7 @@
 <b>Book COVID-19 Vaccine from nearby vaccination centers through live map and get treatment from best doctors around the world</b>
 <br>
 
-<b><a href="https://immunoshots.uc.r.appspot.com/">CHECK LIVE</a></b>
+
 <br>
 
 <a href="https://immunoshots.uc.r.appspot.com"><img src="https://i.ibb.co/hVC9mFn/MK0.png" alt="MK0" border="0"></a>
@@ -39,6 +39,6 @@
 <h1>Deployment</h1>✔️GCP
 
 <h1>Created and Deployed by</h1>
-  <b>Akshat Khanna & Unnati Mishra🙎</b>
+  <b>Yash Tariyal</b>
   <br><br>
 
