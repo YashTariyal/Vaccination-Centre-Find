@@ -1,4 +1,4 @@
-# Immuno-Shots💉
+# Vaccination Centre Finder💉
 
 <b>Book COVID-19 Vaccine from nearby vaccination centers through live map and get treatment from best doctors around the world</b>
 <br>
